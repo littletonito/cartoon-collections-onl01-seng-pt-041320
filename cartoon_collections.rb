@@ -20,6 +20,7 @@ roll_call_dwarves(dwarves)
 
 
 
+planeteer_calls = %w[earth wind fire water heart]
 
 
 
