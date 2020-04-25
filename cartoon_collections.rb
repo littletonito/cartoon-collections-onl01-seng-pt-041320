@@ -1,4 +1,5 @@
- dwarves = %w[Doc
+ dwarves = %w[
+  Doc
   Dopey
   Bashful
   Grumpy
